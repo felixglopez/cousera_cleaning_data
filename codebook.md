@@ -1,4 +1,4 @@
-## Felix Lopez's course project to Coursera's module on Getting and Cleaning Data
+# Felix Lopez's course project to Coursera's module on Getting and Cleaning Data
 
 Setting the directory to work with the files.
 
